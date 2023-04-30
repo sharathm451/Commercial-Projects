@@ -1,6 +1,6 @@
 # CambossChecks
 
-## Campering Tampering Detection:
+## Camera Tampering Detection:
 Tampering Detecion is a process of detecting the kind of anomalies in the video. These anomalies can be defined as per our objectives and create a model to detect the 
 tampering.
 
